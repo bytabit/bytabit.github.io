@@ -51,7 +51,7 @@ tel: 1.323.375.4277
 # Members information. Shown on About page.
 members:
   - name: Steve Myers
-    position: Co-Founder and Lead Developer
+    position: Co-Founder, Engineering
     text: Steve has over twenty years of professional experience in the computer industry with an emphasis in software development and high end server and network architecture. He is passionate about developing secure easy to use Bitcoin applications.
     img: steve.jpg
     social:
@@ -62,7 +62,7 @@ members:
       - title: linkedin
         url: https://www.linkedin.com/in/smyers3
   - name: Richard Myers
-    position: Co-Founder and Developer
+    position: Co-Founder, Product Management
     text: Richard is a professional software developer with over twenty years of experience. He is an expert in all aspects of the software creation process from design and architecture through implementation, testing and support.
     img: richard.jpg
     social:
@@ -72,6 +72,18 @@ members:
         url: http://twitter.com/remyers_
       - title: linkedin
         url: https://se.linkedin.com/in/remyers
+  - name: Marc Lundwall
+    position: Co-Founder, Business Development
+    text: International Civil Servant by day and entrepreneur at heart. Believer in tapping the positive power of Bitcoin and Blockchains.
+    img: marc.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:marc.lundwall@gmail.com
+      - title: twitter
+        url: twitter.com/lundwallmarc
+      - title: linkedin
+        url: https://www.linkedin.com/in/marc-lundwall-938a624
+
 # Clients information. Shown on Home and About pages.
 clients:
   - name: dribbble
