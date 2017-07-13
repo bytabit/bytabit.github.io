@@ -2,7 +2,7 @@
 
 # Site settings
 title: Bytabit
-description: "The Bytabit Fiat Trader project."
+description: "The Bytabit Mobile project."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "http://bytabit.org"
@@ -26,22 +26,23 @@ colors:  #in hex code if not noted else
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: bitbucket
-    url: https://bitbucket.org/bytabit/
-  - title: list-ol
-    url: https://bytabit.atlassian.net/projects/FT/summary/statistics
+#  - title: bitbucket
+#    url: https://bitbucket.org/bytabit/
+#  - title: list-ol
+#    url: https://bytabit.atlassian.net/projects/bytabit-mobile/summary/statistics
   - title: twitter
     url: https://twitter.com/BytabitOrg
   - title: reddit-alien
     url: https://www.reddit.com/r/bytabit
-  - title: comments
-    url: https://bytabit.hipchat.com/chat
+#  - title: comments
+#    url: https://bytabit.hipchat.com/chat
     
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines: 
-    - Los Angeles, California, United States.
-    - Bjärred , Skåne, Sweden.
+    - Los Angeles, California
+    - New York, New York
+    - Skåne, Sverige
 email: info@bytabit.org
 tel: 1.323.375.4277
 
@@ -78,7 +79,7 @@ members:
     img: marc.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:marc.lundwall@gmail.com
+        url: mailto:marc@bytabit.org
       - title: twitter
         url: twitter.com/lundwallmarc
       - title: linkedin
@@ -96,10 +97,8 @@ clients:
     img: client04.png
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "The mission of the Bytabit team is to provide the most secure, private, and convenient way to buy and sell fiat currency with bitcoin."
+about: "The mission of the Bytabit team is to provide the most secure, private, and convenient way to buy and sell bitcoin."
 
 # Testimonial content. Shown on Home and About page. 
 testimonial:
-    message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
-    author: Marcel Newman
-    position: WEB DESIGNER - BLACKTIE.CO
+    "Please let us know if you would like updates on our project or to participate in our upcoming beta:"

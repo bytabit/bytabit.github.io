@@ -1,4 +1,4 @@
-/*	################################################################
+﻿/*	################################################################
 
 	Author: Carlos Alvarez
 	URL: http://alvarez.is
@@ -442,19 +442,18 @@ csmall {
 
 /* Contact Page */
 #contactwrap {
-	background: url(../img/worldmap.png) no-repeat center top;
+	background: url(../img/worldmap.png) no-repeat center center;
 	margin-top: -60px;
 	padding-top:0px;
 	text-align:center;
-	background-attachment: relative;
-	background-position: center center;
-	min-height: 600px;
+	background-attachment: scroll;
+	background-position: right center;
+	min-height: 450px;
 	width: 100%;
 	
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
     -o-background-size: 100%;
-    background-size: 100%;
 
     -webkit-background-size: cover;
     -moz-background-size: cover;
