@@ -442,11 +442,11 @@ csmall {
 
 /* Contact Page */
 #contactwrap {
-	background: url(../img/worldmap.png) no-repeat center center;
+	background: url(../img/worldmap.png) no-repeat center top;
 	margin-top: -60px;
 	padding-top:0px;
 	text-align:center;
-	background-attachment: scroll;
+	background-attachment: relative;
 	background-position: right center;
 	min-height: 450px;
 	width: 100%;
@@ -454,6 +454,7 @@ csmall {
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
     -o-background-size: 100%;
+    background-size: 100%;
 
     -webkit-background-size: cover;
     -moz-background-size: cover;
