@@ -4,7 +4,7 @@
 title: Bytabit
 description: "The Bytabit Mobile project."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "/bytabit.github.io" #important: start with /
+baseurl: "" #important: start with /
 url: "http://bytabit.org"
 
 # Build settings
