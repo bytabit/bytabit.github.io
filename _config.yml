@@ -59,20 +59,9 @@ members:
       - title: envelope #use for email address
         url: mailto:steve@bytabit.org
       - title: twitter
-        url: http://twitter.com/stevemyers_
+        url: https://twitter.com/stevemyers_
       - title: linkedin
         url: https://www.linkedin.com/in/smyers3
-  - name: Richard Myers
-    position: Co-Founder, Product Management
-    text: Richard is a professional software developer with over twenty years of experience. He is an expert in all aspects of the software creation process from design and architecture through implementation, testing and support.
-    img: richard.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:richard@bytabit.org
-      - title: twitter
-        url: http://twitter.com/remyers_
-      - title: linkedin
-        url: https://se.linkedin.com/in/remyers
   - name: Marc Lundwall
     position: Co-Founder, Business Development
     text: International Civil Servant by day and entrepreneur at heart. Believer in tapping the positive power of Bitcoin and Blockchains.
@@ -81,9 +70,20 @@ members:
       - title: envelope #use for email address
         url: mailto:marc@bytabit.org
       - title: twitter
-        url: twitter.com/lundwallmarc
+        url: https://twitter.com/lundwallmarc
       - title: linkedin
         url: https://www.linkedin.com/in/marc-lundwall-938a624
+  - name: Richard Myers
+    position: Co-Founder, Product Management
+    text: Richard is a professional software developer with over twenty years of experience. He is an expert in all aspects of the software creation process from design and architecture through implementation, testing and support.
+    img: richard.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:richard@bytabit.org
+      - title: twitter
+        url: https://twitter.com/remyers_
+      - title: linkedin
+        url: https://se.linkedin.com/in/remyers
 
 # Clients information. Shown on Home and About pages.
 clients:
