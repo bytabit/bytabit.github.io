@@ -11,7 +11,7 @@ permalink: /contact/
         <div class="col-lg-8">
             <h4>Get In Touch</h4>
             <div class="hline"></div>
-                <p>{{ site.testimonial }}<a href="mailto:{{ site.email }}"> {{ site.email }}</a></p>
+                <p>{{ site.testimonial }}<a href="mailto:{{ site.email }}"> {{ site.email }}</a></p>
                 <!--<form role="form">-->
                   <!--<div class="form-group">-->
                     <!--<label for="InputName1">Your Name</label>-->
@@ -42,10 +42,11 @@ permalink: /contact/
                     {% endfor %}
                 </p>
                 <p>
-                    <i class="fa fa-envelope"></i> <a href="mailto:{{ site.email }}">{{ site.email }}</a><br/>
-                    <i class="fa fa-phone"></i> <a href="tel:{{ site.tel }}">{{ site.tel }}</a>
+                    <i class="fa fa-envelope"></i> <a href="mailto:{{ site.email }}">{{ site.email }}</a><br/>
+                    <i class="fa fa-phone"></i> <a href="tel:{{ site.tel }}">{{ site.tel1 }}</a><br/>
+                    <i class="fa fa-phone"></i> <a href="tel:{{ site.tel }}">{{ site.tel2 }}</a>
                 </p>
-                <p>We look forward to hearing from you!</p>
+                <p>{{ site.salutation }}</p>
         </div>
     </div><! --/row -->
 </div><! --/container -->

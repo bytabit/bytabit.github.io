@@ -1,4 +1,4 @@
-### GENERAL SETTINGS ###
+﻿### GENERAL SETTINGS ###
 
 # Site settings
 title: Bytabit
@@ -21,7 +21,6 @@ colors:  #in hex code if not noted else
   footer_heading: "#ffffff"
   footer_content: "#ffffff"
   
-  
 ### CONTACT SETTINGS ###
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
@@ -39,13 +38,14 @@ social:
     
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
-  - lines: 
+  - lines:
     - Los Angeles, California
     - New York, New York
-    - Skåne, Sverige
+    - Malmö, Sweden
 email: info@bytabit.org
-tel: 1.323.375.4277
-
+tel1: +1 323 375 4277
+tel2: +46 (0) 40 6060683 
+salutation: We look forward to hearing from you!
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
     
